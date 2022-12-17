@@ -6,7 +6,7 @@ https://dsmovie-rommel.netlify.app/
 
 Simple full stack web application created during the **DevSuperior Week**, event organized by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-The application was created with the purpose of study and practice **ReactJS** integrated with **Spring Boot** and consists in a list of cards with films where the user can rate each film, then the average rate is calculated and presented filling up the stars under the picture of each film.
+The application was created with the purpose of study and practice **ReactJS** integrated with **Spring Boot** and consists in a list of cards with films where users can rate each film, then the average rate is calculated and presented filling up the stars under the picture of each film.
 
 ## Layout
 
